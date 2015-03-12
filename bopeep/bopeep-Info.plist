@@ -26,6 +26,8 @@
 	<true/>
 	<key>UIMainStoryboardFile</key>
 	<string>MainStoryboard</string>
+	<key>CFBundleIconFile</key>
+	<string>Icon.png</string>
 	<key>UIRequiredDeviceCapabilities</key>
 	<array>
 		<string>armv7</string>

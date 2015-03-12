@@ -1,0 +1,41 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Faculty Absences</title>
+
+<link rel="stylesheet" type="text/css" href="/globals/globalCSS.css">
+<link rel="stylesheet" type="text/css" href="localCSS.css">
+
+</head>
+
+<body>
+
+<div class="container">
+<div class="image"> 
+<br>	Faculty Absence Listing&nbsp;&nbsp;&nbsp; &nbsp;  <br>
+<span style='font-size:14px;'>Tuesday - November 12, 2013</span>&nbsp;&nbsp; &nbsp; &nbsp;  </div>
+
+<div class="content">
+<table>
+
+<tr>
+<td>
+<table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>ARNER-WELSH, JEN</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>DEEDY, JOHN</strong></font><br>&nbsp;&nbsp; <font color=#000000 size=3>7 p.m. class ENG 096 ALF</font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>DUERDEN, LEE</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>FISHER, MICHAEL</strong></font><br>&nbsp;&nbsp; <font color=#000000 size=3>8AM class only.</font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>IZUCHI, NT</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>PRIOR, ROBERT</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>SADOWSKI, SARAH</strong></font></td></tr></table>
+</td>
+</tr>
+<tr>
+<td style="height: 20px;text-align: center; height:60px;" >
+
+<input type="button" value="Printable Listing" name="B1" style="color: #F00" onClick="location='prnFacLst.asp';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type="button" value="Close Window" name="B1" style="color: #F00" onClick="var self = window.open('', '_self', ''); self.focus(); self.opener = top; self.close();">
+</td>
+</tr>
+</table></div>
+</div>
+</body>
+
+</html>

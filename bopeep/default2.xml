@@ -1,0 +1,40 @@
+
+<html>
+
+<head>
+<meta http-equiv="Content-Language" content="en-us">
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8">
+<title>Faculty Absences</title>
+
+<link rel="stylesheet" type="text/css" href="localCSS.css">
+
+</head>
+
+<body>
+
+<div class="container">
+<div class="image"> 
+<br>	Faculty Absence Listing&nbsp;&nbsp;&nbsp; &nbsp;  <br>
+<span style='font-size:14px;'>Friday - October 18, 2013</span>&nbsp;&nbsp; &nbsp; &nbsp;  </div>
+
+<div class="content">
+<table>
+
+<tr>
+<td>
+<table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>BEAUDRY, AMY</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>CAHN, NANCY</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>DONOVAN-PENDZIC, ESPERANZA</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>PIDEL, LONNY</strong></font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>PIETREWICZ, AMY</strong></font><br>&nbsp;&nbsp; <font color=#000000 size=3>Classes should check Qmail</font></td></tr></table><table><tr><td width="100%" valign=top><font face=Arial color=#000000 size=3><strong>ZUEGG, BETSY</strong></font></td></tr></table>
+</td>
+</tr>
+<tr>
+<td style="height: 20px;text-align: center; height:60px;" >
+
+<input type="button" value="Printable Listing" name="B1" style="color: #F00" onClick="location='prnFacLst.asp';">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
+<input type="button" value="Close Window" name="B1" style="color: #F00" onClick="var self = window.open('', '_self', ''); self.focus(); self.opener = top; self.close();">
+</td>
+</tr>
+</table></div>
+</div>
+</body>
+
+</html>

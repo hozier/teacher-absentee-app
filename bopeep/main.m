@@ -10,6 +10,11 @@
 
 #import "AppDelegate.h"
 
+// The main job of the app delegate is to provide the window into which your app’s content is drawn.
+//
+
+
+
 int main(int argc, char *argv[])
 {
     @autoreleasepool {
