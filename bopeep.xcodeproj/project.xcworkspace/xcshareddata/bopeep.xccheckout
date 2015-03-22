@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>C1D66D5C-54FA-488A-84D2-5AF5F280A304</string>
+	<key>IDESourceControlProjectName</key>
+	<string>bopeep</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>F4BEB340DA9F686977DCF6990142CE0C436347EB</key>
+		<string>https://github.com/hozier/teacher-absentee-app.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>bopeep.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>F4BEB340DA9F686977DCF6990142CE0C436347EB</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/hozier/teacher-absentee-app.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>F4BEB340DA9F686977DCF6990142CE0C436347EB</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>F4BEB340DA9F686977DCF6990142CE0C436347EB</string>
+			<key>IDESourceControlWCCName</key>
+			<string>teacher-absentee-app</string>
+		</dict>
+	</array>
+</dict>
+</plist>
